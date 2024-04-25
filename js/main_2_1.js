@@ -88,9 +88,13 @@ const ShoppingCart = {
     }
 };
 
-function fetchProducts() {
+const apiUrl = 'https://06779e2a-4a7e-4155-882d-0e209068ec0d-00-z12dgkbv5gfn.kirk.replit.dev/product_json';
+
+// const apiUrl = '/product_json';
+
+function fetchProducts(url=apiUrl) {
     axios
-        .get("./api_test/products_details.json")
+        .get(url)
         .then((response) => {
             const products = response.data;
             console.info("Products Info Received from Server");
