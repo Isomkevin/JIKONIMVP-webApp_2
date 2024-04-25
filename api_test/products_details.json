@@ -1,0 +1,76 @@
+[
+  { 
+    "item_id": "1a5fcb6d-8555-4b67-b64e-8a3e1e2f033e",
+    "name": "Fresh Tomatoes",
+    "imageUrl": "img/product-1.jpg",
+    "primaryStatus": "New",
+    "price": 19.00,
+    "oldPrice": 29.00,
+    "url": "#"
+  },
+  { 
+    "item_id": "2e7b9c58-3b3a-45e8-80fb-82e0e92f2a7f",
+    "name": "Fresh Pineapple",
+    "imageUrl": "img/product-2.jpg",
+    "primaryStatus": "New",
+    "secondaryStatus": ["Imported", "Fresh"],
+    "price": 15.00,
+    "oldPrice": 25.00,
+    "url": "#"
+  },
+  { 
+    "item_id": "dd54d5dc-8f39-46a0-949f-91462b4b3d29",
+    "name": "Organic Pilipili",
+    "imageUrl": "img/product-3.jpg",
+    "secondaryStatus": ["Imported", "Fresh"],
+    "primaryStatus": "Hot Sale",
+    "price": 12.50,
+    "oldPrice": 15.00,
+    "url": "#"
+  },
+  { 
+    "item_id": "6a02fc36-71cc-4942-a56a-d2b3a3f4d2e3",
+    "name": "Ripe Strawberries",
+    "imageUrl": "img/product-4.jpg",
+    "primaryStatus": "New",
+    "price": 10.00,
+    "oldPrice": 0,
+    "url": "#"
+  },
+  { 
+    "item_id": "d3cf04a3-c17f-4e4d-9f7a-54d299ae0d42",
+    "name": "Fresh Cucumber",
+    "imageUrl": "img/product-5.jpg",
+    "primaryStatus": "New",
+    "price": 8.00,
+    "oldPrice": 0,
+    "url": "#"
+  },
+  { 
+    "item_id": "8d64f50c-af7d-45e5-b2c2-307d50b61184",
+    "name": "Fresh Avocadoes",
+    "imageUrl": "img/product-6.jpg",
+    "primaryStatus": "New",
+    "price": 15.00,
+    "oldPrice": 25.00,
+    "url": "#"
+  },
+  { 
+    "item_id": "b34b17e8-2460-447d-bf4e-1e63f845a45e",
+    "name": "Fresh Potatoes",
+    "imageUrl": "img/product-7.jpg",
+    "primaryStatus": "New",
+    "price": 15.00,
+    "oldPrice": 25.00,
+    "url": "#"
+  },
+  { 
+    "item_id": "f5c23891-9254-4964-a09a-b4754c4ad556",
+    "name": "Fresh Bananas",
+    "imageUrl": "img/product-8.jpg",
+    "primaryStatus": "New",
+    "price": 15.00,
+    "oldPrice": 25.00,
+    "url": "#"
+  }
+]
